@@ -14,7 +14,6 @@ window.addEventListener('resize' , () => {
 
     if(window.innerWidth > 800){
         mobilemenu.style.left = '-100%'
-        hamburger.style.left = '-100%';
     }
 
 });
