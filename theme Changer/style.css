@@ -1,0 +1,14 @@
+ img {
+     width: 200px;
+     transition: filter 0.3s ease;
+
+ }
+
+ .body_color {
+     background-color: black;
+     transition: background-color 0.3s;
+ }
+
+ .invert {
+     filter: invert(1);
+ }
